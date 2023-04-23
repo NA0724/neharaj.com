@@ -1,0 +1,5 @@
+Flask==1.1.4
+awscli==1.27.84
+boto3==1.26.84
+pycryptodome==3.9.7
+markupsafe==2.0.1
